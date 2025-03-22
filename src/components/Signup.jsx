@@ -1,11 +1,11 @@
 import React from 'react'
 
-function Buy() {
+function Signup() {
   return (
     <div>
-      Course
+      
     </div>
   )
 }
 
-export default Buy
+export default Signup
