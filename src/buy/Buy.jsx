@@ -2,7 +2,7 @@ import React from 'react'
 import Navbar from '../components/Navbar'
 import Footer from '../components/Footer'
 import Buyy from '../components/Buyy'
-import list from '../list.json'
+
 
 function Buy() {
   return (
