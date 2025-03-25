@@ -1,5 +1,5 @@
 import React from 'react'
-import pica from "../../public/pica.jpg"
+import pica from "../../src/assets/pica.jpg"
 function Banner() {
   return (
     <>
@@ -30,7 +30,7 @@ function Banner() {
         </div>
        
         <div className='order-1 w-full md:w-1/2'>
-          <img  src="/pica.jpg" className="w-[692px]  h-[400px] md:h-[592px] " alt="Image"/>
+          <img  src={pica} className="w-[692px]  h-[400px] md:h-[592px] " alt="Image"/>
         </div>
     </div>
       

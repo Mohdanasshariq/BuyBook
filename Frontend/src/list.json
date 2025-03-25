@@ -1,0 +1,55 @@
+[
+    {
+    "id":1,
+    "name":"Story Book",
+    "title":"Stories about acient India",
+    "price":0,
+    "category":"Free",
+    "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?uid=R147466013&ga=GA1.1.2003992239.1742241086&semt=ais_hybrid"
+    },
+    {
+     "id":2,
+     "name":"Gaming Book",
+     "title":"cheetsheets of various games",
+     "price":0,
+     "category":"Free",
+     "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?uid=R147466013&ga=GA1.1.2003992239.1742241086&semt=ais_hybrid"
+    
+    },
+    {
+      "id":3,
+      "name":"Comic Book",
+      "title":"Comic stories ",
+      "price":0,
+      "category":"Free",
+      "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?uid=R147466013&ga=GA1.1.2003992239.1742241086&semt=ais_hybrid"
+        
+    },
+    {
+       "id":4,
+       "name":"Science Book",
+       "title":"Science Book for kids",
+       "price":40,
+       "category":"School Book",
+       "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?uid=R147466013&ga=GA1.1.2003992239.1742241086&semt=ais_hybrid"
+            
+     },
+     {
+        "id":5,
+        "name":"Math Book",
+        "title":"Advance mathematics ",
+        "price":40,
+        "category":"School Book",
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?uid=R147466013&ga=GA1.1.2003992239.1742241086&semt=ais_hybrid"
+                
+     },
+     {
+        "id":6,
+        "name":"English Book",
+        "title":"English book for kids",
+        "price":40,
+        "category":"School Book",
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?uid=R147466013&ga=GA1.1.2003992239.1742241086&semt=ais_hybrid"
+                    
+     }
+]
